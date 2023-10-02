@@ -19,9 +19,9 @@
   </div>
 
 <div style="display: inline_block"><br>
-<a href="https://github.com/marttuga/github-readme-stats">
+<!-- <a href="https://github.com/marttuga/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marttuga&theme=onedark" />
-</a>
+</a> -->
 <a href="https://github.com/marttuga/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marttuga&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </a>
