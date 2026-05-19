@@ -24,17 +24,17 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 
-  </div>
+</div>
 
 <div style="display: inline_block"><br>
 <!-- <a href="https://github.com/marttuga/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marttuga&theme=onedark" />
 </a> -->
-<a href="https://github.com/marttuga/convoychat">
+<!--<a href="https://github.com/marttuga/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marttuga&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</a>
+</a>-->
 </div>
 
   
